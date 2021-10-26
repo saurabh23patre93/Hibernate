@@ -5,6 +5,9 @@
 
 	<hibernate-mapping>
 		<!--This is hibernate mapping-->
+		<!--This is hibernate mapping-->
+		<!--This is hibernate mapping-->
+		<!--This is hibernate mapping-->
 		<class name="com.nt.entity.Membership" table="SUPERMARKET_MEMBERSHIP">
 			<id name="mid" column="MID">
 				<generator class="increment"/>
