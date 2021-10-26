@@ -4,6 +4,10 @@
 	"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
 
 	<hibernate-mapping>
+		<!--This is hibernate mapping-->
+		<!--This is hibernate mapping-->
+		<!--This is hibernate mapping-->
+		<!--This is hibernate mapping-->
 		<class name="com.nt.entity.Membership" table="SUPERMARKET_MEMBERSHIP">
 			<id name="mid" column="MID">
 				<generator class="increment"/>
@@ -11,5 +15,6 @@
 			<property name="name" column="NAME"/>
 			<property name="addrs" column="ADDRS"/>
 			<property name="rewardPoints" column="REWARDPOINTS"/>
+			<!--This is hibernate mapping--><!--This is hibernate mapping--><!--This is hibernate mapping--><!--This is hibernate mapping--><!--This is hibernate mapping--><!--This is hibernate mapping--><!--This is hibernate mapping-->
 		</class>
 	</hibernate-mapping>
