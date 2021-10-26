@@ -15,5 +15,6 @@
 			<property name="name" column="NAME"/>
 			<property name="addrs" column="ADDRS"/>
 			<property name="rewardPoints" column="REWARDPOINTS"/>
+			<!--This is hibernate mapping--><!--This is hibernate mapping--><!--This is hibernate mapping--><!--This is hibernate mapping--><!--This is hibernate mapping--><!--This is hibernate mapping--><!--This is hibernate mapping-->
 		</class>
 	</hibernate-mapping>
