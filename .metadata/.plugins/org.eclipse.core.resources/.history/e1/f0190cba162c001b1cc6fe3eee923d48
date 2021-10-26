@@ -1,0 +1,20 @@
+package com.nt.dao;
+
+import org.hibernate.Session;
+
+import com.nt.entity.PhoneNumber;
+import com.nt.utility.HibernateUtil;
+
+public class OneToManyDAOImpl implements OneToManyDAO {
+
+	@Override
+	public void saveDataUsingParent() {
+		//Get Session
+		Session ses=HibernateUtil.getSession();
+		//Prepare Object
+		//Child object
+		PhoneNumber ph1=new PhoneNumber(899999L,"Resident","airtel");
+
+	}
+
+}

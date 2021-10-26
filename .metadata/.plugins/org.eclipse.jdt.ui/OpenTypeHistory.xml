@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=HBProj-73-ManyToOneUNIDirection/D:\/Program Files\/Java\/jdk-11.0.8\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/11\/docs\/api\/=/&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1602914851020"/>
+    <typeInfo handle="=HBProj-73-ManyToOneUNIDirection/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.nt.dao{ManyToOneDao.java[ManyToOneDao" modifiers="513" timestamp="1605884259756"/>
+    <typeInfo handle="=HBProj-68-OneToManyUNI/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.nt.dao{OneToManyDAO.java[OneToManyDAO" modifiers="513" timestamp="1605975885386"/>
+</typeInfoHistroy>

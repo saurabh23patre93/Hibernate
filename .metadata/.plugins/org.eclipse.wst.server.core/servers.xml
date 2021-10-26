@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="1" glassfish.adminname="testuser" glassfish.adminpassword="testuser" glassfish.adminserverportnumber="4444" glassfish.debugport="4444" glassfish.domainpath="D:\app\glassfish5\glassfish\domains\GFHBDomain" glassfish.serverportnumber="8080" hostname="localhost" id="GlassFish 5 [GFHBDomain]" name="GlassFish 5 [GFHBDomain]" runtime-id="GlassFish 5" server-type="glassfish.server" server-type-id="glassfish.server" start-timeout="240" stop-timeout="240" timestamp="4">
+    <list key="modules" value0="HBProj-31-Web_ProductSearch_GlassFish::org.eclipse.jst.j2ee.server:HBProj-31-Web_ProductSearch_GlassFish::jst.web::2.4"/>
+  </server>
+</servers>

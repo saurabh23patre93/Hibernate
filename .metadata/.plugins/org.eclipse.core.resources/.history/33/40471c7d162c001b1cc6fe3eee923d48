@@ -1,0 +1,19 @@
+package com.nt.dao;
+
+import org.hibernate.Session;
+
+import com.nt.utility.HibernateUtil;
+
+public class OneToManyDAOImpl implements OneToManyDAO {
+
+	@Override
+	public void saveDataUsingParent() {
+		//Get Session
+		Session ses=HibernateUtil.getSession();
+		//Prepare Object
+		//Child object
+		
+
+	}
+
+}
