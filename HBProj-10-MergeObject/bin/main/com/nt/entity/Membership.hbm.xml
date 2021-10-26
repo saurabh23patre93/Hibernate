@@ -4,6 +4,7 @@
 	"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
 
 	<hibernate-mapping>
+		<!--This is hibernate mapping-->
 		<class name="com.nt.entity.Membership" table="SUPERMARKET_MEMBERSHIP">
 			<id name="mid" column="MID">
 				<generator class="increment"/>
